@@ -1,4 +1,4 @@
-Fully functional event handling app through CLI
+Event handling app through CLI
 
 Getting started: 
 Clone repo
