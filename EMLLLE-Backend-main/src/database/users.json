@@ -1,0 +1,23 @@
+[
+  {
+    "id": "a77b9eb2-263d-46ed-ae35-c40e21bbf110",
+    "username": "Lucas",
+    "firstName": "Lucas",
+    "lastName": "Lucas123",
+    "password": "$2b$10$GxX8drhMkjnhTMAEwEvBKe7XXjQmajNUKOmrD4szXR7OEpmP/GydC"
+  },
+  {
+    "id": "cd9cd9f8-0c6c-4cef-8681-62412ad87650",
+    "username": "Linkan",
+    "firstName": "Linus",
+    "lastName": "Orrekvist",
+    "password": "$2b$10$u.xZlV4SJWBTqfBejvvVGe3xmxGMADBzAAAbFmtwBt7FWEPTnE7z."
+  },
+  {
+    "id": "6fcadf7d-f393-4efa-bc05-6e407c908171",
+    "username": "aaaa",
+    "firstName": "bbb",
+    "lastName": "ccc",
+    "password": "$2b$10$Jb7KYFx6YY/XBsEIo6PKr.C01aICo/PhiH7tKLJoO4G/RLvgxeJj2"
+  }
+]

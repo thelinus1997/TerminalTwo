@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "organizationId": "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6",
+    "organizerId": "6d5c4b3a-2e1f-0d9c-8b7a-6f5e4d3c2b1a",
+    "title": "Tech Innovators Conference 2024",
+    "date": "2024-11-15",
+    "location": {
+      "name": "Convention Center, Downtown"
+    },
+    "description": "Join us for a day of tech innovation and networking.",
+    "isPublic": true,
+    "registrationOptions": {
+      "isRegistrationRequired": true,
+      "requiresApproval": false,
+      "requiresPayment": true,
+      "allowMultipleOptions": false
+    },
+    "participants": [
+      {
+        "id": "a12345c6-789d-4b8e-a5d9-123e456f7a8b",
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "hasPaid": true,
+        "isApproved": true,
+        "registrationDate": "2024-10-01T09:30:00.000Z"
+      },
+      {
+        "id": "b98765d4-321c-4e7b-8f9e-321d4e6f7a9c",
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "hasPaid": false,
+        "isApproved": false,
+        "registrationDate": "2024-10-05T11:15:00.000Z"
+      },
+      {
+        "id": "a77b9eb2-263d-46ed-ae35-c40e21bbf110",
+        "firstName": "Lucas",
+        "lastName": "Lucas123",
+        "hasPaid": false,
+        "isApproved": false,
+        "registrationDate": "2024-11-08T14:15:46.685Z"
+      }
+    ]
+  },
+  {
+    "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+    "organizationId": "c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
+    "organizerId": "0d9c8b7a-6f5e-4d3c-2b1a-6e7f8a9c0d1e",
+    "title": "Art & Music Festival",
+    "date": "2024-12-01",
+    "location": {
+      "name": "City Park Amphitheater"
+    },
+    "description": "A celebration of local artists and musicians.",
+    "isPublic": true,
+    "registrationOptions": {
+      "isRegistrationRequired": true,
+      "requiresApproval": false,
+      "requiresPayment": false,
+      "allowMultipleOptions": true
+    },
+    "participants": []
+  },
+  {
+    "id": "4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+    "organizationId": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+    "organizerId": "5b4c3d2e-1a0f-9c8b-7a6e-5d4c3b2a1f9e",
+    "title": "Startup Pitch Night",
+    "date": "2024-11-20",
+    "location": {
+      "name": "Tech Hub Auditorium"
+    },
+    "description": "Pitch your startup idea to potential investors.",
+    "isPublic": false,
+    "registrationOptions": {
+      "isRegistrationRequired": true,
+      "requiresApproval": false,
+      "requiresPayment": true,
+      "allowMultipleOptions": false
+    },
+    "participants": [
+      {
+        "id": "e9f8d7c6-b5a4-3c2b-1e0d-9a8b7c6d5e4f",
+        "firstName": "Charlie",
+        "lastName": "Green",
+        "hasPaid": false,
+        "isApproved": true,
+        "registrationDate": "2024-10-15T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+    "organizationId": "4b5c6d7e-8f9a-0b1c-2d3e-4a5f6b7c8d9e",
+    "organizerId": "3c2d1e0f-9b8a-7c6e-5d4f-3b2a1e9f8d7c",
+    "title": "Winter Wonderland Gala",
+    "date": "2024-12-24",
+    "location": {
+      "name": "Grand Ballroom"
+    },
+    "description": "A formal event to celebrate the holiday season.",
+    "isPublic": false,
+    "registrationOptions": {
+      "isRegistrationRequired": true,
+      "requiresApproval": false,
+      "requiresPayment": true,
+      "allowMultipleOptions": false
+    },
+    "participants": [
+      {
+        "id": "cd9cd9f8-0c6c-4cef-8681-62412ad87650",
+        "firstName": "Linus",
+        "lastName": "Orrekvist",
+        "hasPaid": false,
+        "isApproved": false,
+        "registrationDate": "2024-12-22T14:12:16.227Z"
+      }
+    ]
+  },
+  {
+    "id": "9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b",
+    "organizationId": "7f6e5d4c-3b2a-1e0f-9c8b-7a6e5d4c3b2a",
+    "organizerId": "2d3e4f5a-6b7c-8d9e-0a1b-2c3d4e5f6a7b",
+    "title": "Coding Bootcamp Demo Day",
+    "date": "2024-11-30",
+    "location": {
+      "name": "Coding Academy"
+    },
+    "description": "Showcase projects created by bootcamp students.",
+    "isPublic": true,
+    "registrationOptions": {
+      "isRegistrationRequired": false,
+      "requiresApproval": false,
+      "requiresPayment": false,
+      "allowMultipleOptions": false
+    },
+    "participants": []
+  }
+]
